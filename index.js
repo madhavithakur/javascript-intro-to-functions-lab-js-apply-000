@@ -2,6 +2,6 @@ function shout(string){
   
 }
 
-function('madhavi', function(){
-  
+madhavi('string', function(){
+  return "hi"+string
 })
